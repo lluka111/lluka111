@@ -45,8 +45,8 @@ I'm a Computer Science student passionate about software development, web applic
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
-  <img height="165" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=lluka111&show_icons=true&theme=tokyonight&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=lluka111&layout=compact&theme=tokyonight&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
@@ -61,5 +61,5 @@ I'm a Computer Science student passionate about software development, web applic
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
----
+--- &v=2
 <p align="center"><i>⭐️ From <a href="https://github.com/lluka111">lluka111</a></i></p>
