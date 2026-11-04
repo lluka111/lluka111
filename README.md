@@ -61,5 +61,5 @@ I'm a Computer Science student passionate about software development, web applic
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
----
+--- &v=2
 <p align="center"><i>⭐️ From <a href="https://github.com/lluka111">lluka111</a></i></p>
